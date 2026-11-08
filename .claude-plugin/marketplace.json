@@ -1,0 +1,11 @@
+{
+  "name": "security-guard",
+  "owner": { "name": "kushinoyuya" },
+  "plugins": [
+    {
+      "name": "security-guard",
+      "source": "./",
+      "description": "Blocks secrets from being written, blocks reads of sensitive files, and asks before dangerous shell commands."
+    }
+  ]
+}

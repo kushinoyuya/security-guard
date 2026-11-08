@@ -1,0 +1,7 @@
+{
+  "name": "security-guard",
+  "version": "0.1.0",
+  "author": { "name": "kushinoyuya" },
+  "license": "MIT",
+  "description": "Blocks secrets from being written, blocks reads of sensitive files, and asks before dangerous shell commands."
+}
